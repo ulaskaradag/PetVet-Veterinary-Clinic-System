@@ -7,6 +7,7 @@ from owner_pet import OwnerPetFrame
 from appointments import AppointmentFrame
 from medical_history import MedicalHistoryFrame
 from reports import ReportsFrame
+import sys
 
 
 class ClinicApp(tk.Tk):
@@ -21,7 +22,7 @@ class ClinicApp(tk.Tk):
         self.current_role = None
 
         self.title("PetVet Clinic Management System")
-        self.geometry("600x600")
+        self.geometry("900x900") if sys.platform == "darwin" else self.geometry("600x600")
         self.resizable(False, False)
 
         top_bar = tk.Frame(self)

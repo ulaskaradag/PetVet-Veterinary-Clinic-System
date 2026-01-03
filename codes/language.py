@@ -121,7 +121,7 @@ class LanguageManager:
                 "logout": "Çıkış",
                 #owner & pet registration menu window texts(owner_pet.py)
                 "owner_name": "Sahip Ad",
-                "owner_phone": "Sahip Telefon (0 ile başla)",
+                "owner_phone": "Sahip Telefon (0 ile başlayan)",
                 "pet_species": "Hayvanın türü",
                 "pet_breed": "Hayvanın cinsi",
                 "pet_age": "Hayvanın yaşı",

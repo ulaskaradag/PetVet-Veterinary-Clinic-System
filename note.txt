@@ -1,0 +1,11 @@
+You can enter as a vetenerian with the following credentials:
+
+ID: VET049274
+Password: 123456
+
+You can enter as a secretary with the following credentials:
+
+ID: SEC019328
+Password: Abcd1234
+
+You can test registration via other vetenerians and secretary from worker_list.xlsx or you can add new ones to excel file and test with them.

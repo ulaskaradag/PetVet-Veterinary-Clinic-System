@@ -39,6 +39,18 @@ The system implements role-based access control with two predefined roles: Veter
 
     - tkinter and sqlite3 libraries are included with standard python installations so any additional installation is not needed.
 
+## 🔮 Future Development:
+
+    - 🔐 Improve password security using hashing techniques
+
+    - 📅 Add a calendar-based appointment interface
+    
+    - 📊 Extend reporting and statistical analysis features
+
+    - 💾 Implement database backup and restore mechanisms
+
+    - 🎨 Enhance user interface and overall user experience
+
 ## 🚀 **Running the Application**:
 
     1) 📁 Ensure worker_list.xlsx is located in the excel_files/ directory.
